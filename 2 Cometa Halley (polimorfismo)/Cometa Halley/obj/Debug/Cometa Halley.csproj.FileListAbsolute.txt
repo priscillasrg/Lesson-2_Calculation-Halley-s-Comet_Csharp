@@ -1,0 +1,40 @@
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa Halley.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa_Halley.Form1.resources
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa_Halley.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa Halley.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa Halley.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\bin\Debug\Cometa Halley.exe.config
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\bin\Debug\Cometa Halley.exe
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\bin\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa Halley.exe
+C:\Users\Priscilla\source\repos\Cometa Halley\Cometa Halley\obj\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\bin\Debug\Cometa Halley.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\bin\Debug\Cometa Halley.exe
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\bin\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa Halley.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa_Halley.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa_Halley.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa Halley.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa Halley.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa Halley.exe
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley com polimorfismo\Cometa Halley\obj\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\bin\Debug\Cometa Halley.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\bin\Debug\Cometa Halley.exe
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\bin\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa_Halley.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa_Halley.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.exe
+C:\Users\Priscilla\Desktop\Treino POO\Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\bin\Debug\Cometa Halley.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\bin\Debug\Cometa Halley.exe
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\bin\Debug\Cometa Halley.pdb
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa_Halley.Form1.resources
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa_Halley.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.exe
+C:\Users\Priscilla\Desktop\Treino POO\2 Cometa Halley (polimorfismo)\Cometa Halley\obj\Debug\Cometa Halley.pdb
