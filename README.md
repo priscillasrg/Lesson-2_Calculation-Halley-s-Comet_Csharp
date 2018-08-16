@@ -1,6 +1,5 @@
-# Lesson-2_Halley-Comet-Calculation_Csharp
+# Cálculo Cometa Halley C# - Halley's Comet Calculation C#
 
-Atividade: Cálculo Cometa Halley C# - Lesson: Halley's Comet Calculation C #
 
 (PT) Inserir um ano e mostrar quando o cometa Halley vai passar e quando passou.
 
